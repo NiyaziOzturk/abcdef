@@ -2,3 +2,4 @@
 Hello niyazi
 this is a new line
 This is a branch line
+This is the ERROR line for the branch added.
